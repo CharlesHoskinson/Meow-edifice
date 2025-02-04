@@ -24,6 +24,35 @@ which unifies analytic, topological, categorical, arithmetic, and combinatorial 
 ## 📄 Read the Paper
 📄 **[Download Meow-Edifice.pdf](https://github.com/CharlesHoskinson/Meow-edifice/raw/main/Meow.pdf)**
 
+---
+# MeowDox: A Paradox Engine for Program Transformation
+
+MeowDox is a novel engine for program transformation that injects controlled paradoxical self-reference into programs. Inspired by the theoretical framework of the Paradox Engine Algebra, MeowDox explores the interplay of self-reference, diagonalization, and fixed-point formation in modern computing.
+
+## Overview
+
+MeowDox is built on the idea of a paradox engine operator, $\mathcal{P}$, which formalizes self-reference by establishing fixed points in a category of self-referential formulas. In practical terms, MeowDox transforms conventional programs—extending the notion of quines—into self-modifying code that exhibits controlled paradoxical behavior. This approach has potential applications in various domains:
+
+- **Cybersecurity:** Create self-obfuscating code and adaptive malware testbeds.
+- **Adaptive Systems:** Develop algorithms that modify their behavior dynamically.
+- **Creative Domains:** Generate art, interactive narratives, and dynamic music compositions.
+- **Distributed Systems:** Explore novel consensus protocols through mutual fixed-point formation.
+
+## Theoretical Background
+
+MeowDox is based on a unified algebraic framework for self-reference and diagonalization. Central to the theory is the operator:
+\[
+\mathcal{P}(\phi) = \phi\Bigl(\ulcorner \mathcal{P}(\phi) \Bigr),
+\]
+which ensures that a program transformed by MeowDox reaches a fixed point (i.e., a state of paradoxical self-reference). This theoretical foundation unifies classical results—such as Gödel’s Diagonal Lemma and fixed-point combinators—with modern recursive constructs.
+## Download
+
+You can download the latest version of the MeowDox paper (as a PDF) from our repository:
+
+[Download MeowDoxFinal.pdf](https://github.com/CharlesHoskinson/Meow-edifice/raw/main/MeowDoxFinal.pdf)
+
+
+
 
 
 
